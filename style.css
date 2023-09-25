@@ -1,0 +1,12 @@
+:root{
+ --fundo: #b514c7;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: var(--fundo);
+  }
+  canvas {
+    display: block;
+  }
